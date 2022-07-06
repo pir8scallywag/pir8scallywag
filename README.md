@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pir8scallywag
-- 👀 I’m interested in python coding and anything that has to do with woodworking or video games.
+- 👀 I’m interested in coding and anything that has to do with woodworking or video games.
 - 🌱 I’m currently learning python introductory coding.
 - 💞️ I’m looking to collaborate on new and interesting projects.
 - 📫 How to reach me the best way is though github
